@@ -1,0 +1,44 @@
+[
+    {
+        "id": "P-101",
+        "name": "Wireless Headphones",
+        "category": "electronics",
+        "price": 3499,
+        "inStock": true
+    },
+    {
+        "id": "P-102",
+        "name": "Bluetooth Speaker",
+        "category": "electronics",
+        "price": 8999,
+        "inStock": true
+    },
+    {
+        "id": "P-103",
+        "name": "Running Shoes",
+        "category": "footwear",
+        "price": 2199,
+        "inStock": false
+    },
+    {
+        "id": "P-104",
+        "name": "Cotton Kurta",
+        "category": "clothing",
+        "price": 1299,
+        "inStock": true
+    },
+    {
+        "id": "P-105",
+        "name": "Steel Water Bottle",
+        "category": "home",
+        "price": 749,
+        "inStock": true
+    },
+    {
+        "id": "P-106",
+        "name": "Yoga Mat",
+        "category": "fitness",
+        "price": 899,
+        "inStock": true
+    }
+]

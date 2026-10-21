@@ -1,0 +1,91 @@
+[
+    {
+        "id": "ORD-1042",
+        "customerName": "Aarav Patil",
+        "status": "Delivered",
+        "deliveredDaysAgo": 3,
+        "total": 3499,
+        "paymentMethod": "UPI",
+        "items": [
+            {
+                "name": "Wireless Headphones",
+                "price": 3499,
+                "category": "electronics"
+            }
+        ]
+    },
+    {
+        "id": "ORD-1043",
+        "customerName": "Diya Jadhav",
+        "trackingId": "BD928374651",
+        "estimatedDelivery": "in 2 days",
+        "total": 1299,
+        "paymentMethod": "Credit card",
+        "items": [
+            {
+                "name": "Cotton Kurta",
+                "price": 1299,
+                "category": "clothing"
+            }
+        ]
+    },
+    {
+        "id": "ORD-1044",
+        "customerName": "Rohan Iyer",
+        "status": "Processing",
+        "total": 749,
+        "paymentMethod": "Cash on delivery",
+        "items": [
+            {
+                "name": "Steel Water Bottle",
+                "price": 749,
+                "category": "home"
+            }
+        ]
+    },
+    {
+        "id": "ORD-1045",
+        "customerName": "Neha Kapoor",
+        "status": "Delivered",
+        "deliveredDaysAgo": 45,
+        "total": 2199,
+        "paymentMethod": "Net banking",
+        "items": [
+            {
+                "name": "Running Shoes",
+                "price": 2199,
+                "category": "footwear"
+            }
+        ]
+    },
+    {
+        "id": "ORD-1046",
+        "customerName": "Kabir Singh",
+        "status": "Delivered",
+        "deliveredDaysAgo": 5,
+        "total": 599,
+        "paymentMethod": "UPI",
+        "items": [
+            {
+                "name": "Cotton Socks (pack of 3)",
+                "price": 599,
+                "category": "innerwear"
+            }
+        ]
+    },
+    {
+        "id": "ORD-1047",
+        "customerName": "Ishita Rao",
+        "status": "Delivered",
+        "deliveredDaysAgo": 10,
+        "total": 8999,
+        "paymentMethod": "Credit card",
+        "items": [
+            {
+                "name": "Bluetooth Speaker",
+                "price": 8999,
+                "category": "electronics"
+            }
+        ]
+    }
+]
